@@ -6,8 +6,15 @@
 *.exe
 *.exe~
 *.so
+.DS_Store
 
 # Testing
 *.test
 *.tmp
 
+# Binary
+void
+*sock*
+
+# Config files
+.vsrc

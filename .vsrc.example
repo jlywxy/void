@@ -1,6 +1,6 @@
 {
     "password_encrypted": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "socket": "/Users/jlywxy/voidshell/vssock1",
+    "socket": "./vssock1",
     "plugin_root": "./plugins",
     "tls_config_pem": "cert/server.pem",
     "tls_config_key": "cert/server.key"
